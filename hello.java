@@ -1,3 +1,5 @@
 class Hello{
   public static void main(String args[]){
-    psvm}
+      public static CalFactorial();
+    System.out.println("hello");
+}
