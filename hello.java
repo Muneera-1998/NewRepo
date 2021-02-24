@@ -1,7 +1,3 @@
-urgjeffle
-ffenbfmefjh
-wjfbemfbe,fwbdbd
-wfbemfefwfjf
-wbffbffkwjkrr
-wbfmfbfbwjkks
-fbfwjfwkbfwmfbefb
+class Hello{
+  public static void main(String args[]){
+    psvm}
